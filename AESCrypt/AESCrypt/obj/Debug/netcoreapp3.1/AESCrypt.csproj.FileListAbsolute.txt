@@ -1,0 +1,14 @@
+C:\Users\HoangThai\source\repos\AESCrypt\AESCrypt\bin\Debug\netcoreapp3.1\AESCrypt.exe
+C:\Users\HoangThai\source\repos\AESCrypt\AESCrypt\bin\Debug\netcoreapp3.1\AESCrypt.deps.json
+C:\Users\HoangThai\source\repos\AESCrypt\AESCrypt\bin\Debug\netcoreapp3.1\AESCrypt.runtimeconfig.json
+C:\Users\HoangThai\source\repos\AESCrypt\AESCrypt\bin\Debug\netcoreapp3.1\AESCrypt.runtimeconfig.dev.json
+C:\Users\HoangThai\source\repos\AESCrypt\AESCrypt\bin\Debug\netcoreapp3.1\AESCrypt.dll
+C:\Users\HoangThai\source\repos\AESCrypt\AESCrypt\bin\Debug\netcoreapp3.1\AESCrypt.pdb
+C:\Users\HoangThai\source\repos\AESCrypt\AESCrypt\obj\Debug\netcoreapp3.1\AESCrypt.csproj.AssemblyReference.cache
+C:\Users\HoangThai\source\repos\AESCrypt\AESCrypt\obj\Debug\netcoreapp3.1\AESCrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HoangThai\source\repos\AESCrypt\AESCrypt\obj\Debug\netcoreapp3.1\AESCrypt.AssemblyInfoInputs.cache
+C:\Users\HoangThai\source\repos\AESCrypt\AESCrypt\obj\Debug\netcoreapp3.1\AESCrypt.AssemblyInfo.cs
+C:\Users\HoangThai\source\repos\AESCrypt\AESCrypt\obj\Debug\netcoreapp3.1\AESCrypt.csproj.CoreCompileInputs.cache
+C:\Users\HoangThai\source\repos\AESCrypt\AESCrypt\obj\Debug\netcoreapp3.1\AESCrypt.dll
+C:\Users\HoangThai\source\repos\AESCrypt\AESCrypt\obj\Debug\netcoreapp3.1\AESCrypt.pdb
+C:\Users\HoangThai\source\repos\AESCrypt\AESCrypt\obj\Debug\netcoreapp3.1\AESCrypt.genruntimeconfig.cache
